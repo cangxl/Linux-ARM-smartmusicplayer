@@ -1,3 +1,3 @@
-music_player为嵌入式端文件，运行于mini2440
-music_server为服务器端文件，运行于阿里云服务器ECS的Ubuntu系统
-musicclient为app端文件，由QT Creater开发，运行于Windows
+music_player为嵌入式端文件，运行于mini2440\n
+music_server为服务器端文件，运行于阿里云服务器ECS的Ubuntu系统\n
+musicclient为app端文件，由QT Creater开发，运行于Windows\n
